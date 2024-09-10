@@ -21,9 +21,12 @@ To run the **Social Media Feed** project locally:
    ```bash
    git clone https://github.com/AbdulSamad01/social-media-app.git
 2. Navigate to the project directory:
+   ```bash
    cd social-media-app
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    npm install
-4. Run the project:
+6. Run the project:
+   ```bash
    npm start
-5. The application will be available at http://localhost:3000/ in your web browser.
+8. The application will be available at http://localhost:3000/ in your web browser.
