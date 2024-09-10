@@ -1,13 +1,8 @@
 # Social Media App Repository
 
-This repository contains two distinct projects: **Social Media Feed** and **Whiteboard**. Each project has its own functionality, and they are structured in different folders within the repository.
 
----
+## Case Study 4: Social Media Feed
 
-## Project 1: Social Media Feed
-
-### Overview
-The **Social Media Feed** project is a dynamic feed that allows users to scroll through posts in a social media-like interface. Infinite scrolling is implemented, allowing for smooth user experience without excessive page loads.
 
 ### Structure
 - `public/` - Contains static assets like HTML files and images.
